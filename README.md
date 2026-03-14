@@ -53,6 +53,15 @@ T20-Performance-Analytics-Dashboard/
 └── README.md
 ---
 
+
+## 📊 Power BI Dashboard
+
+The interactive dashboard file is available in the repository:
+
+powerbi_dashboard/T20_Analytics_Comparison.pbix
+
+Download and open using Microsoft Power BI Desktop to explore the interactive analytics dashboard.
+
 ## 👨‍💻 Author
 
 Kabir Sidana  
